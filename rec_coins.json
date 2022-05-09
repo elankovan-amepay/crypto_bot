@@ -1,0 +1,32 @@
+[
+  {
+    "coin_symbol": "ETH"
+  },
+  {
+    "coin_symbol": "BTC"
+  },
+  {
+    "coin_symbol": "TRX"
+  },
+  {
+    "coin_symbol": "LTC"
+  },
+  {
+    "coin_symbol": "XRD"
+  },
+  {
+    "coin_symbol": "XCN"
+  },
+  {
+    "coin_symbol": "VET"
+  },
+  {
+    "coin_symbol": "WAVES"
+  },
+  {
+    "coin_symbol": "ZIL"
+  },
+  {
+    "coin_symbol": "AME"
+  }
+]
